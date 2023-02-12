@@ -1,4 +1,4 @@
-package az.coder.task1.task25;
+package task25;
 
 import java.sql.*;
 import java.util.Scanner;
